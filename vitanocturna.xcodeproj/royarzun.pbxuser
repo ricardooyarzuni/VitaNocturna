@@ -1,0 +1,289 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* vitanocturnaAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {600, 563}}";
+			sepNavSelRange = "{227, 0}";
+			sepNavVisRange = "{0, 634}";
+		};
+	};
+	1D3623250D0F684500981E51 /* vitanocturnaAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1820}}";
+			sepNavSelRange = "{3728, 0}";
+			sepNavVisRange = "{2537, 2013}";
+			sepNavWindowFrame = "{{15, 164}, {671, 1009}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* VitaNocturna */ = {
+		activeExec = 0;
+		executables = (
+			FE197662132ADC6900FF4BD0 /* VitaNocturna */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {579, 568}}";
+			sepNavSelRange = "{258, 0}";
+			sepNavVisRange = "{0, 267}";
+			sepNavWindowFrame = "{{61, 122}, {671, 1009}}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{3945, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{3996, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{4046, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4742}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 2210}}";
+			sepNavSelRange = "{2425, 0}";
+			sepNavVisRange = "{1862, 1490}";
+			sepNavWindowFrame = "{{1120, 169}, {671, 1009}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FE197662132ADC6900FF4BD0 /* VitaNocturna */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* VitaNocturna */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* VitaNocturna */,
+		);
+		codeSenseManager = FE197678132ADC6F00FF4BD0 /* Code sense */;
+		executables = (
+			FE197662132ADC6900FF4BD0 /* VitaNocturna */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321718634;
+			PBXWorkspaceStateSaveDate = 321718634;
+		};
+		perUserProjectItems = {
+			FE1976CD132B0A4B00FF4BD0 /* PBXTextBookmark */ = FE1976CD132B0A4B00FF4BD0 /* PBXTextBookmark */;
+			FE1976D3132B162300FF4BD0 /* PBXTextBookmark */ = FE1976D3132B162300FF4BD0 /* PBXTextBookmark */;
+			FE1976E4132B223600FF4BD0 /* PBXTextBookmark */ = FE1976E4132B223600FF4BD0 /* PBXTextBookmark */;
+			FE197770132B2E2100FF4BD0 /* PBXTextBookmark */ = FE197770132B2E2100FF4BD0 /* PBXTextBookmark */;
+			FE197771132B2E2100FF4BD0 /* PBXTextBookmark */ = FE197771132B2E2100FF4BD0 /* PBXTextBookmark */;
+			FE197772132B2E2100FF4BD0 /* PBXTextBookmark */ = FE197772132B2E2100FF4BD0 /* PBXTextBookmark */;
+			FE197774132B2E2100FF4BD0 /* PBXTextBookmark */ = FE197774132B2E2100FF4BD0 /* PBXTextBookmark */;
+			FE197791132B8E7800FF4BD0 /* PBXTextBookmark */ = FE197791132B8E7800FF4BD0 /* PBXTextBookmark */;
+			FE197797132B91C200FF4BD0 /* PBXBookmark */ = FE197797132B91C200FF4BD0 /* PBXBookmark */;
+			FE1977A6132B940C00FF4BD0 /* PBXTextBookmark */ = FE1977A6132B940C00FF4BD0 /* PBXTextBookmark */;
+			FE97CC53132D0981005AC793 /* PlistBookmark */ = FE97CC53132D0981005AC793 /* PlistBookmark */;
+			FE97CC54132D0981005AC793 /* PBXTextBookmark */ = FE97CC54132D0981005AC793 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FE197677132ADC6F00FF4BD0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {579, 540}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 393}";
+		};
+	};
+	FE197662132ADC6900FF4BD0 /* VitaNocturna */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = VitaNocturna;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FE197677132ADC6F00FF4BD0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FE197678132ADC6F00FF4BD0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FE19767C132ADF4E00FF4BD0 /* localClub.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {579, 563}}";
+			sepNavSelRange = "{684, 0}";
+			sepNavVisRange = "{0, 690}";
+			sepNavWindowFrame = "{{1251, 169}, {671, 1009}}";
+		};
+	};
+	FE19767D132ADF4E00FF4BD0 /* localClub.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {817, 611}}";
+			sepNavSelRange = "{1688, 0}";
+			sepNavVisRange = "{0, 1828}";
+		};
+	};
+	FE1976CD132B0A4B00FF4BD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 11";
+		rLen = 0;
+		rLoc = 258;
+		rType = 0;
+		vrLen = 267;
+		vrLoc = 0;
+	};
+	FE1976D3132B162300FF4BD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FE1976D4132B162300FF4BD0 /* todoAppDelegate.m */;
+		name = "todoAppDelegate.m: 62";
+		rLen = 2495;
+		rLoc = 1938;
+		rType = 0;
+		vrLen = 2086;
+		vrLoc = 2536;
+	};
+	FE1976D4132B162300FF4BD0 /* todoAppDelegate.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = todoAppDelegate.m;
+		path = /Users/royarzun/Downloads/todo/Classes/todoAppDelegate.m;
+		sourceTree = "<absolute>";
+	};
+	FE1976E4132B223600FF4BD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FE1976E5132B223600FF4BD0 /* Todo.m */;
+		name = "Todo.m: 18";
+		rLen = 1380;
+		rLoc = 316;
+		rType = 0;
+		vrLen = 1678;
+		vrLoc = 26;
+	};
+	FE1976E5132B223600FF4BD0 /* Todo.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = Todo.m;
+		path = /Users/royarzun/Downloads/todo/Classes/Todo.m;
+		sourceTree = "<absolute>";
+	};
+	FE197770132B2E2100FF4BD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* vitanocturnaAppDelegate.h */;
+		name = "vitanocturnaAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 227;
+		rType = 0;
+		vrLen = 634;
+		vrLoc = 0;
+	};
+	FE197771132B2E2100FF4BD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FE19767C132ADF4E00FF4BD0 /* localClub.h */;
+		name = "localClub.h: 27";
+		rLen = 0;
+		rLoc = 684;
+		rType = 0;
+		vrLen = 690;
+		vrLoc = 0;
+	};
+	FE197772132B2E2100FF4BD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FE19767D132ADF4E00FF4BD0 /* localClub.m */;
+		name = "localClub.m: 37";
+		rLen = 0;
+		rLoc = 1688;
+		rType = 0;
+		vrLen = 1828;
+		vrLoc = 0;
+	};
+	FE197774132B2E2100FF4BD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 393;
+		vrLoc = 0;
+	};
+	FE197791132B8E7800FF4BD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* vitanocturnaAppDelegate.m */;
+		name = "vitanocturnaAppDelegate.m: 92";
+		rLen = 0;
+		rLoc = 3728;
+		rType = 0;
+		vrLen = 2134;
+		vrLoc = 2537;
+	};
+	FE197797132B91C200FF4BD0 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FE19778B132B32A600FF4BD0 /* El Huevo.jpg */;
+	};
+	FE1977A6132B940C00FF4BD0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 93";
+		rLen = 0;
+		rLoc = 2425;
+		rType = 0;
+		vrLen = 1490;
+		vrLoc = 1862;
+	};
+	FE97CC53132D0981005AC793 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* VitaNocturna-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/royarzun/src/vitanocturna/VitaNocturna-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	FE97CC54132D0981005AC793 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* vitanocturnaAppDelegate.m */;
+		name = "vitanocturnaAppDelegate.m: 92";
+		rLen = 0;
+		rLoc = 3728;
+		rType = 0;
+		vrLen = 2013;
+		vrLoc = 2537;
+	};
+}

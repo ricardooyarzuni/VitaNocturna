@@ -1,0 +1,678 @@
+Tvitanocturna
+v7
+r0
+t321623195.810774
+cCheck dependencies
+cProcessInfoPlistFile /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/Info.plist VitaNocturna-Info.plist
+cCompileXIB /Users/royarzun/src/vitanocturna/MainWindow.xib
+cCompileXIB /Users/royarzun/src/vitanocturna/RootViewController.xib
+cCpResource build/Debug-iphonesimulator/VitaNocturna.app/vita.sqlite vita.sqlite
+cCpResource "build/Debug-iphonesimulator/VitaNocturna.app/El Huevo.jpg" "El Huevo.jpg"
+cCpResource build/Debug-iphonesimulator/VitaNocturna.app/car_win.ico car_win.ico
+cCpResource build/Debug-iphonesimulator/VitaNocturna.app/Icon.png Icon.png
+cProcessPCH /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VitaNocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/VitaNocturna_Prefix.pch.gch VitaNocturna_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/main.o /Users/royarzun/src/vitanocturna/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/vitanocturnaAppDelegate.o /Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/RootViewController.o /Users/royarzun/src/vitanocturna/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/localClub.o /Users/royarzun/src/vitanocturna/Classes/localClub.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/VitaNocturna normal i386
+cGenerateDSYMFile /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app.dSYM /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/VitaNocturna
+cTouch /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C68C75C0000000000000132
+t1281935196
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sqlite3.h
+c000000004BFDF9FB0000000000041A6F
+t1274935803
+s268911
+
+N/Users/royarzun/src/vitanocturna/23642_388484021144_42547956144_5354630_5267211_s.jpg
+c000000004D7AFAE90000000000000B34
+t1299905257
+s2868
+
+N/Users/royarzun/src/vitanocturna/Classes/RootViewController.h
+c000000004D7AD09F000000000000010B
+t1299894431
+s267
+i<UIKit/UIKit.h>
+
+N/Users/royarzun/src/vitanocturna/Classes/RootViewController.m
+c000000004D7B5A3F0000000000001286
+t1299929663
+s4742
+i"RootViewController.h"
+i"localClub.h"
+i"sqlite3.h"
+
+N/Users/royarzun/src/vitanocturna/Classes/localClub.h
+c000000004D7AEADF00000000000002B2
+t1299901151
+s690
+i<Foundation/Foundation.h>
+i<sqlite3.h>
+
+N/Users/royarzun/src/vitanocturna/Classes/localClub.m
+c000000004D7AEBD6000000000000072A
+t1299901398
+s1834
+i"localClub.h"
+i<sqlite3.h>
+
+N/Users/royarzun/src/vitanocturna/Classes/vitaLoader.h
+c000000004D7AB58800000000000000FB
+t1299887496
+s251
+i<Foundation/Foundation.h>
+
+N/Users/royarzun/src/vitanocturna/Classes/vitaLoader.m
+c000000004D7AAA1E00000000000000E4
+t1299884574
+s228
+i"vitaLoader.h"
+
+N/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.h
+c000000004D7AEC3C000000000000027A
+t1299901500
+s634
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+
+N/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m
+c000000004D7AF6E0000000000000166E
+t1299904224
+s5742
+i"vitanocturnaAppDelegate.h"
+i"RootViewController.h"
+i"localClub.h"
+
+N/Users/royarzun/src/vitanocturna/El Huevo.jpg
+c000000004D7AFAE90000000000000B34
+t1299905257
+s2868
+
+N/Users/royarzun/src/vitanocturna/Icon.png
+c000000004C507A6400000000000024A5
+t1280342628
+s9381
+
+N/Users/royarzun/src/vitanocturna/MainWindow.xib
+c000000004D7AAFAA00000000000060A4
+t1299885994
+s24740
+
+N/Users/royarzun/src/vitanocturna/RootViewController.xib
+c000000004D7AAFBE00000000000043AB
+t1299886014
+s17323
+
+N/Users/royarzun/src/vitanocturna/VitaNocturna_Prefix.pch
+c000000004D7AA4E9000000000000014A
+t1299883241
+s330
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app
+t1299930395
+s374
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app.dSYM
+t1299930395
+s102
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/El Huevo.jpg
+t1299930394
+s2868
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/Icon.png
+t1299930394
+s9381
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/Info.plist
+t1299930394
+s648
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/MainWindow.nib
+t1299930394
+s1552
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/PkgInfo
+t1299930394
+s8
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/RootViewController.nib
+t1299930394
+s979
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/VitaNocturna
+t1299930395
+s26500
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/car_win.ico
+t1299930394
+s145872
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/vita.sqlite
+t1299930394
+s3072
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app.dSYM
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/23642_388484021144_42547956144_5354630_5267211_s.jpg
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/El Huevo.jpg
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/Icon.png
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/Info.plist
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/MainWindow.nib
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/PkgInfo
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/RootViewController.nib
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/car_win.ico
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/huevo
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/huevo.jpg
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/vita.sqlite
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/vitanocturna
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/RootViewController.o
+t1299930395
+s40576
+
+N/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/VitaNocturna.LinkFileList
+c000000004D7B5D1A000000000000021E
+t1299930394
+s542
+
+N/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/localClub.o
+t1299930395
+s13560
+
+N/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/main.o
+t1299930395
+s6292
+
+N/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/vitanocturnaAppDelegate.o
+t1299930395
+s58756
+
+N/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/RootViewController.o
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/localClub.o
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/vitaLoader.o
+t1299887496
+s5048
+
+N/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/vitanocturna.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/vitanocturnaAppDelegate.o
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/car_win.ico
+c000000004C5077C200000000000239D0
+t1280341954
+s145872
+
+N/Users/royarzun/src/vitanocturna/huevo
+c000000004D7AFA680000000000000C5C
+t1299905128
+s3164
+
+N/Users/royarzun/src/vitanocturna/huevo.jpg
+c000000004D7AFA680000000000000C5C
+t1299905128
+s3164
+
+N/Users/royarzun/src/vitanocturna/libsqlite3.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/royarzun/src/vitanocturna/main.m
+c000000004D7AA4E90000000000000189
+t1299883241
+s393
+i<UIKit/UIKit.h>
+
+N/Users/royarzun/src/vitanocturna/vita.sqlite
+c000000004D7AF4660000000000000C00
+t1299903590
+s3072
+
+N/Users/royarzun/src/vitanocturna/vitanocturna_Prefix.pch
+c000000004D7AA4E9000000000000014A
+t1299883241
+s330
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VitaNocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/VitaNocturna_Prefix.pch.gch
+t1299930395
+s15232016
+
+N/var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/vitanocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/vitanocturna_Prefix.pch.gch
+t2
+s0
+
+NVitaNocturna-Info.plist
+c000000004D7B6F8A00000000000003C7
+t1299935114
+s967
+
+Nvitanocturna-Info.plist
+c000000004D7B5BC700000000000003D2
+t1299930055
+s978
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321623194#321623194#0(0"0(0#1#0"8621285184#0"0#
+
+CCompileC build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/RootViewController.o /Users/royarzun/src/vitanocturna/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321623195.646767
+e321623195.746715
+r1
+xCompileC
+xbuild/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/RootViewController.o
+x/Users/royarzun/src/vitanocturna/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/royarzun/src/vitanocturna/Classes/RootViewController.m321623195#321623195#0(0"0(0#0#61"/Users/royarzun/src/vitanocturna/Classes/RootViewController.m8621436544#1971"    cd /Users/royarzun/src/vitanocturna    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-generated-files.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-own-target-headers.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-all-target-headers.hmap -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-project-headers.hmap -F/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator -I/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/include -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/DerivedSources/i386 -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/DerivedSources -include /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VitaNocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/VitaNocturna_Prefix.pch -c /Users/royarzun/src/vitanocturna/Classes/RootViewController.m -o /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/localClub.o /Users/royarzun/src/vitanocturna/Classes/localClub.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321623195.648197
+e321623195.757020
+r1
+xCompileC
+xbuild/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/localClub.o
+x/Users/royarzun/src/vitanocturna/Classes/localClub.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/royarzun/src/vitanocturna/Classes/localClub.m321623195#321623195#0(0"0(0#0#52"/Users/royarzun/src/vitanocturna/Classes/localClub.m8620446016#1953"    cd /Users/royarzun/src/vitanocturna    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-generated-files.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-own-target-headers.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-all-target-headers.hmap -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-project-headers.hmap -F/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator -I/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/include -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/DerivedSources/i386 -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/DerivedSources -include /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VitaNocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/VitaNocturna_Prefix.pch -c /Users/royarzun/src/vitanocturna/Classes/localClub.m -o /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/localClub.o0#
+
+CCompileC build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/main.o /Users/royarzun/src/vitanocturna/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321623195.643765
+e321623195.709879
+r1
+xCompileC
+xbuild/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/main.o
+x/Users/royarzun/src/vitanocturna/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/royarzun/src/vitanocturna/main.m321623195#321623195#0(0"0(0#0#39"/Users/royarzun/src/vitanocturna/main.m8619481856#1935"    cd /Users/royarzun/src/vitanocturna    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-generated-files.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-own-target-headers.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-all-target-headers.hmap -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-project-headers.hmap -F/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator -I/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/include -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/DerivedSources/i386 -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/DerivedSources -include /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VitaNocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/VitaNocturna_Prefix.pch -c /Users/royarzun/src/vitanocturna/main.m -o /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/main.o0#
+
+CCompileC build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/vitanocturnaAppDelegate.o /Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321623195.645325
+e321623195.764949
+r1
+xCompileC
+xbuild/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/vitanocturnaAppDelegate.o
+x/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m: In function '-[vitanocturnaAppDelegate initializeDatabase]':
+o/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m:79: warning: format not a string literal and no format arguments
+o/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m: In function '-[vitanocturnaAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m:83: warning: conflicting types for '-(void)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:233: warning: previous declaration of '-(BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'
+lSLF07#2@74"Compile /Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m321623195#321623195#0(924"/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m: In function '-[vitanocturnaAppDelegate initializeDatabase]':/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m:79: warning: format not a string literal and no format arguments/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m: In function '-[vitanocturnaAppDelegate application:didFinishLaunchingWithOptions:]':/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m:83: warning: conflicting types for '-(void)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:233: warning: previous declaration of '-(BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'3(22@51"Format not a string literal and no format arguments321623195#129#132#0(6@66"/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m321597024#79#0#79#0#51"format not a string literal and no format arguments0(22@131"Conflicting types for '-(void)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'321623195#414#212#0(6@66"/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m321597024#83#0#83#0#25"conflicting types for '*'0(22@133"Previous declaration of '-(BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'321623195#626#298#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h297052218#233#0#233#0#0"0(0#0#66"/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m8623810816#1981"    cd /Users/royarzun/src/vitanocturna    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-generated-files.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-own-target-headers.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-all-target-headers.hmap -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-project-headers.hmap -F/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator -I/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/include -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/DerivedSources/i386 -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/DerivedSources -include /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VitaNocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/VitaNocturna_Prefix.pch -c /Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m -o /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/vitanocturnaAppDelegate.o0#
+
+CCompileC build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/RootViewController.o /Users/royarzun/src/vitanocturna/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321623112.610737
+e321623112.702928
+r1
+xCompileC
+xbuild/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/RootViewController.o
+x/Users/royarzun/src/vitanocturna/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/royarzun/src/vitanocturna/Classes/RootViewController.m321623112#321623112#0(0"0(0#0#61"/Users/royarzun/src/vitanocturna/Classes/RootViewController.m8621139392#1971"    cd /Users/royarzun/src/vitanocturna    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-generated-files.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-own-target-headers.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-all-target-headers.hmap -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-project-headers.hmap -F/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator -I/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/include -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/DerivedSources/i386 -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/DerivedSources -include /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/vitanocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/vitanocturna_Prefix.pch -c /Users/royarzun/src/vitanocturna/Classes/RootViewController.m -o /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/localClub.o /Users/royarzun/src/vitanocturna/Classes/localClub.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321623112.611958
+e321623112.701061
+r1
+xCompileC
+xbuild/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/localClub.o
+x/Users/royarzun/src/vitanocturna/Classes/localClub.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/royarzun/src/vitanocturna/Classes/localClub.m321623112#321623112#0(0"0(0#0#52"/Users/royarzun/src/vitanocturna/Classes/localClub.m8617891040#1953"    cd /Users/royarzun/src/vitanocturna    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-generated-files.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-own-target-headers.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-all-target-headers.hmap -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-project-headers.hmap -F/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator -I/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/include -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/DerivedSources/i386 -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/DerivedSources -include /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/vitanocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/vitanocturna_Prefix.pch -c /Users/royarzun/src/vitanocturna/Classes/localClub.m -o /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/localClub.o0#
+
+CCompileC build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/main.o /Users/royarzun/src/vitanocturna/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321623112.608798
+e321623112.675850
+r1
+xCompileC
+xbuild/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/main.o
+x/Users/royarzun/src/vitanocturna/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/royarzun/src/vitanocturna/main.m321623112#321623112#0(0"0(0#0#39"/Users/royarzun/src/vitanocturna/main.m8621934752#1935"    cd /Users/royarzun/src/vitanocturna    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-generated-files.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-own-target-headers.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-all-target-headers.hmap -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-project-headers.hmap -F/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator -I/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/include -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/DerivedSources/i386 -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/DerivedSources -include /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/vitanocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/vitanocturna_Prefix.pch -c /Users/royarzun/src/vitanocturna/main.m -o /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/main.o0#
+
+CCompileC build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/vitaLoader.o /Users/royarzun/src/vitanocturna/Classes/vitaLoader.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321580296.523548
+e321580296.586283
+r1
+xCompileC
+xbuild/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/vitaLoader.o
+x/Users/royarzun/src/vitanocturna/Classes/vitaLoader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/royarzun/src/vitanocturna/Classes/vitaLoader.m321580296#321580296#0(0"0(0#0#53"/Users/royarzun/src/vitanocturna/Classes/vitaLoader.m8617863872#1955"    cd /Users/royarzun/src/vitanocturna    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-generated-files.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-own-target-headers.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-all-target-headers.hmap -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-project-headers.hmap -F/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator -I/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/include -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/DerivedSources/i386 -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/DerivedSources -include /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/vitanocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/vitanocturna_Prefix.pch -c /Users/royarzun/src/vitanocturna/Classes/vitaLoader.m -o /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/vitaLoader.o0#
+
+CCompileC build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/vitanocturnaAppDelegate.o /Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321623112.609768
+e321623112.717850
+r1
+xCompileC
+xbuild/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/vitanocturnaAppDelegate.o
+x/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m: In function '-[vitanocturnaAppDelegate initializeDatabase]':
+o/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m:79: warning: format not a string literal and no format arguments
+o/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m: In function '-[vitanocturnaAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m:83: warning: conflicting types for '-(void)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:233: warning: previous declaration of '-(BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'
+lSLF07#2@74"Compile /Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m321623112#321623112#0(924"/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m: In function '-[vitanocturnaAppDelegate initializeDatabase]':/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m:79: warning: format not a string literal and no format arguments/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m: In function '-[vitanocturnaAppDelegate application:didFinishLaunchingWithOptions:]':/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m:83: warning: conflicting types for '-(void)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:233: warning: previous declaration of '-(BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'3(22@51"Format not a string literal and no format arguments321623112#129#132#0(6@66"/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m321597024#79#0#79#0#51"format not a string literal and no format arguments0(22@131"Conflicting types for '-(void)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'321623112#414#212#0(6@66"/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m321597024#83#0#83#0#25"conflicting types for '*'0(22@133"Previous declaration of '-(BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions'321623112#626#298#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h297052218#233#0#233#0#0"0(0#0#66"/Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m8624094816#1981"    cd /Users/royarzun/src/vitanocturna    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-generated-files.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-own-target-headers.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-all-target-headers.hmap -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-project-headers.hmap -F/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator -I/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/include -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/DerivedSources/i386 -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/DerivedSources -include /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/vitanocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/vitanocturna_Prefix.pch -c /Users/royarzun/src/vitanocturna/Classes/vitanocturnaAppDelegate.m -o /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/vitanocturnaAppDelegate.o0#
+
+CCompileXIB /Users/royarzun/src/vitanocturna/MainWindow.xib
+s321623194.554383
+e321623194.942606
+r1
+xCompileXIB
+x/Users/royarzun/src/vitanocturna/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321623194#321623194#0(0"0(0#0#47"/Users/royarzun/src/vitanocturna/MainWindow.xib8619941152#557"    cd /Users/royarzun/src/vitanocturna    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/MainWindow.nib /Users/royarzun/src/vitanocturna/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/royarzun/src/vitanocturna/RootViewController.xib
+s321623194.555277
+e321623194.927345
+r1
+xCompileXIB
+x/Users/royarzun/src/vitanocturna/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib321623194#321623194#0(0"0(0#0#55"/Users/royarzun/src/vitanocturna/RootViewController.xib8619555616#573"    cd /Users/royarzun/src/vitanocturna    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/RootViewController.nib /Users/royarzun/src/vitanocturna/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/VitaNocturna.app/El Huevo.jpg" "El Huevo.jpg"
+s321623194.557098
+e321623194.568987
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VitaNocturna.app/El Huevo.jpg
+xEl Huevo.jpg
+lSLF07#2@17"Copy El Huevo.jpg321623194#321623194#0(0"0(0#0#45"/Users/royarzun/src/vitanocturna/El Huevo.jpg8617921728#445"    cd /Users/royarzun/src/vitanocturna    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/royarzun/src/vitanocturna/El Huevo.jpg" /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app0#
+
+CCpResource "build/Debug-iphonesimulator/vitanocturna.app/El Huevo.jpg" "El Huevo.jpg"
+s321623111.371595
+e321623111.378243
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/vitanocturna.app/El Huevo.jpg
+xEl Huevo.jpg
+lSLF07#2@17"Copy El Huevo.jpg321623111#321623111#0(0"0(0#0#45"/Users/royarzun/src/vitanocturna/El Huevo.jpg8619370560#445"    cd /Users/royarzun/src/vitanocturna    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/royarzun/src/vitanocturna/El Huevo.jpg" /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app0#
+
+CCpResource build/Debug-iphonesimulator/VitaNocturna.app/Icon.png Icon.png
+s321623194.558887
+e321623194.574090
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VitaNocturna.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png321623194#321623194#0(0"0(0#0#41"/Users/royarzun/src/vitanocturna/Icon.png8617392992#439"    cd /Users/royarzun/src/vitanocturna    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/royarzun/src/vitanocturna/Icon.png /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app0#
+
+CCpResource build/Debug-iphonesimulator/VitaNocturna.app/car_win.ico car_win.ico
+s321623194.558044
+e321623194.572736
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VitaNocturna.app/car_win.ico
+xcar_win.ico
+lSLF07#2@16"Copy car_win.ico321623194#321623194#0(0"0(0#0#44"/Users/royarzun/src/vitanocturna/car_win.ico8617628608#442"    cd /Users/royarzun/src/vitanocturna    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/royarzun/src/vitanocturna/car_win.ico /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app0#
+
+CCpResource build/Debug-iphonesimulator/VitaNocturna.app/vita.sqlite vita.sqlite
+s321623194.556203
+e321623194.566258
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VitaNocturna.app/vita.sqlite
+xvita.sqlite
+lSLF07#2@16"Copy vita.sqlite321623194#321623194#0(0"0(0#0#44"/Users/royarzun/src/vitanocturna/vita.sqlite8619359520#442"    cd /Users/royarzun/src/vitanocturna    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/royarzun/src/vitanocturna/vita.sqlite /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app0#
+
+CCpResource build/Debug-iphonesimulator/vitanocturna.app/23642_388484021144_42547956144_5354630_5267211_s.jpg 23642_388484021144_42547956144_5354630_5267211_s.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/vitanocturna.app/Icon.png Icon.png
+s321623111.373395
+e321623111.380698
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/vitanocturna.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png321623111#321623111#0(0"0(0#0#41"/Users/royarzun/src/vitanocturna/Icon.png8616838496#439"    cd /Users/royarzun/src/vitanocturna    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/royarzun/src/vitanocturna/Icon.png /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app0#
+
+CCpResource build/Debug-iphonesimulator/vitanocturna.app/car_win.ico car_win.ico
+s321623111.372540
+e321623111.382001
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/vitanocturna.app/car_win.ico
+xcar_win.ico
+lSLF07#2@16"Copy car_win.ico321623111#321623111#0(0"0(0#0#44"/Users/royarzun/src/vitanocturna/car_win.ico8617823328#442"    cd /Users/royarzun/src/vitanocturna    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/royarzun/src/vitanocturna/car_win.ico /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app0#
+
+CCpResource build/Debug-iphonesimulator/vitanocturna.app/huevo huevo
+r0
+
+CCpResource build/Debug-iphonesimulator/vitanocturna.app/huevo.jpg huevo.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/vitanocturna.app/vita.sqlite vita.sqlite
+s321623111.370645
+e321623111.378050
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/vitanocturna.app/vita.sqlite
+xvita.sqlite
+lSLF07#2@16"Copy vita.sqlite321623111#321623111#0(0"0(0#0#44"/Users/royarzun/src/vitanocturna/vita.sqlite8619961984#442"    cd /Users/royarzun/src/vitanocturna    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/royarzun/src/vitanocturna/vita.sqlite /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app0#
+
+CGenerateDSYMFile /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app.dSYM /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/VitaNocturna
+s321623195.792692
+e321623195.807895
+r1
+xGenerateDSYMFile
+x/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app.dSYM
+x/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/VitaNocturna
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/VitaNocturna.app.dSYM build/Debug-iphonesimulator/VitaNocturna.app/VitaNocturna321623195#321623195#0(0"0(0#0#90"/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/VitaNocturna8617273696#380"    cd /Users/royarzun/src/vitanocturna    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/VitaNocturna -o /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app.dSYM0#
+
+CGenerateDSYMFile /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app.dSYM /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/vitanocturna
+s321623112.739237
+e321623112.757683
+r1
+xGenerateDSYMFile
+x/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app.dSYM
+x/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/vitanocturna
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/vitanocturna.app.dSYM build/Debug-iphonesimulator/vitanocturna.app/vitanocturna321623112#321623112#0(0"0(0#0#90"/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/vitanocturna8620035264#380"    cd /Users/royarzun/src/vitanocturna    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/vitanocturna -o /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app.dSYM0#
+
+CLd /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/VitaNocturna normal i386
+s321623195.765042
+e321623195.792596
+r1
+xLd
+x/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/VitaNocturna
+xnormal
+xi386
+lSLF07#2@95"Link /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/VitaNocturna321623195#321623195#0(0"0(0#0#0"8620050400#940"    cd /Users/royarzun/src/vitanocturna    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator -L/Users/royarzun/src/vitanocturna -F/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator -filelist /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/Objects-normal/i386/VitaNocturna.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3 -o /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/VitaNocturna0#
+
+CLd /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/vitanocturna normal i386
+s321623112.717946
+e321623112.739140
+r1
+xLd
+x/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/vitanocturna
+xnormal
+xi386
+lSLF07#2@95"Link /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/vitanocturna321623112#321623112#0(0"0(0#0#0"8599676256#940"    cd /Users/royarzun/src/vitanocturna    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator -L/Users/royarzun/src/vitanocturna -F/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator -filelist /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/Objects-normal/i386/vitanocturna.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3 -o /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/vitanocturna0#
+
+CProcessInfoPlistFile /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/Info.plist VitaNocturna-Info.plist
+s321623194.550782
+e321623194.554280
+r1
+xProcessInfoPlistFile
+x/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/Info.plist
+xVitaNocturna-Info.plist
+lSLF07#2@31"Process VitaNocturna-Info.plist321623194#321623194#0(0"0(0#0#56"/Users/royarzun/src/vitanocturna/VitaNocturna-Info.plist8620878784#476"    cd /Users/royarzun/src/vitanocturna    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility VitaNocturna-Info.plist -genpkginfo /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/Info.plist vitanocturna-Info.plist
+s321623111.365918
+e321623111.369128
+r1
+xProcessInfoPlistFile
+x/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/Info.plist
+xvitanocturna-Info.plist
+lSLF07#2@31"Process vitanocturna-Info.plist321623111#321623111#0(0"0(0#0#56"/Users/royarzun/src/vitanocturna/vitanocturna-Info.plist8624123584#476"    cd /Users/royarzun/src/vitanocturna    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility vitanocturna-Info.plist -genpkginfo /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app/Info.plist0#
+
+CProcessPCH /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VitaNocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/VitaNocturna_Prefix.pch.gch VitaNocturna_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321623194.942750
+e321623195.643623
+r1
+xProcessPCH
+x/var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VitaNocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/VitaNocturna_Prefix.pch.gch
+xVitaNocturna_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VitaNocturna_Prefix.pch321623194#321623195#0(0"0(0#0#56"/Users/royarzun/src/vitanocturna/VitaNocturna_Prefix.pch8605539840#1828"    cd /Users/royarzun/src/vitanocturna    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-generated-files.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-own-target-headers.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-all-target-headers.hmap -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/VitaNocturna-project-headers.hmap -F/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator -I/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/include -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/DerivedSources/i386 -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/VitaNocturna.build/DerivedSources -c /Users/royarzun/src/vitanocturna/VitaNocturna_Prefix.pch -o /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VitaNocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/VitaNocturna_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/vitanocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/vitanocturna_Prefix.pch.gch vitanocturna_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321623111.764017
+e321623112.608682
+r1
+xProcessPCH
+x/var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/vitanocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/vitanocturna_Prefix.pch.gch
+xvitanocturna_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile vitanocturna_Prefix.pch321623111#321623112#0(0"0(0#0#56"/Users/royarzun/src/vitanocturna/vitanocturna_Prefix.pch8622401248#1828"    cd /Users/royarzun/src/vitanocturna    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-generated-files.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-own-target-headers.hmap -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-all-target-headers.hmap -iquote /Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/vitanocturna-project-headers.hmap -F/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator -I/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/include -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/DerivedSources/i386 -I/Users/royarzun/src/vitanocturna/build/vitanocturna.build/Debug-iphonesimulator/vitanocturna.build/DerivedSources -c /Users/royarzun/src/vitanocturna/vitanocturna_Prefix.pch -o /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/vitanocturna_Prefix-fydichewwtdwfjdlgxtrdaifzuss/vitanocturna_Prefix.pch.gch0#
+
+CTouch /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app
+s321623195.808008
+e321623195.810740
+r1
+xTouch
+x/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app
+lSLF07#2@83"Touch /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app321623195#321623195#0(0"0(0#0#0"8616727552#271"    cd /Users/royarzun/src/vitanocturna    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/VitaNocturna.app0#
+
+CTouch /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app
+s321623112.757789
+e321623112.760755
+r1
+xTouch
+x/Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app
+lSLF07#2@83"Touch /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app321623112#321623112#0(0"0(0#0#0"8616924224#271"    cd /Users/royarzun/src/vitanocturna    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/royarzun/src/vitanocturna/build/Debug-iphonesimulator/vitanocturna.app0#
+
